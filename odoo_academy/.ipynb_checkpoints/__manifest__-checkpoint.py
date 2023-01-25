@@ -12,6 +12,7 @@
  'website': 'www.st4business.com',
  'category': 'Training',
  'version': '0.1',
+ 'licence': 'LGPL-3',
  'depends': ['base'],
  'data': [],
  'demo': []
